@@ -1,19 +1,18 @@
-<<<<<<< HEAD
 # Construr - Landing Page
 
-Página de destino para a empresa Construr, especializada em engenharia de fundações.
+Página de destino para a empresa Construr, especializada em cálculo estrutural, fundações e projetos de instalações.
 
 ## Descrição
 
-Esta é uma landing page responsiva para a Construr, empresa de Joaquim Fernandes, que oferece serviços de engenharia de fundações, incluindo tipos comuns de fundações e laudos técnicos especializados.
+Esta é uma landing page responsiva para a Construr, empresa de Joaquim Fernandes, que oferece serviços de cálculo estrutural, projeto de fundações e instalações para obras residenciais, comerciais e industriais.
 
 ## Funcionalidades
 
 - **Seção Hero**: Apresentação da empresa com foto do engenheiro em destaque.
-- **Serviços**: Lista dos serviços oferecidos, como Sapata Isolada, Sapata Corrida, Radier, Estacas, Blocos de Fundação e Laudos Técnicos.
+- **Serviços**: Lista dos serviços oferecidos, como Cálculo Estrutural, Projeto de Fundações, Projeto de Instalações e Laudos Técnicos.
 - **Diferenciais**: Destaques dos pontos fortes da empresa.
 - **Projetos**: Exemplos de projetos realizados com imagens ilustrativas.
-- **Depoimentos**: Comentários de clientes satisfeitos.
+- **Sobre Nós**: Informações sobre a empresa e o engenheiro responsável.
 - **Processo de Trabalho**: Etapas do processo de execução.
 - **Contato via WhatsApp**: Botões para contato direto com o engenheiro.
 - **Design Responsivo**: Compatível com dispositivos móveis e desktop.
@@ -91,6 +90,3 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 - **Email**: contato@construr.com.br (exemplo)
 
 Para mais informações, visite o site ou entre em contato diretamente.
-=======
-# construr
->>>>>>> 385a3182f66c0242ca0795861cf17c2df37ed595
