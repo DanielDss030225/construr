@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Construr - Landing Page
 
 Página de destino para a empresa Construr, especializada em engenharia de fundações.
@@ -90,3 +91,6 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 - **Email**: contato@construr.com.br (exemplo)
 
 Para mais informações, visite o site ou entre em contato diretamente.
+=======
+# construr
+>>>>>>> 385a3182f66c0242ca0795861cf17c2df37ed595
